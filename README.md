@@ -3,10 +3,15 @@
 # gittuto
 **Table of Contents**
 
-[TOCM]
-
-[TOC]
-
+- [cheat sheet](#cheat-sheet)
+  * [Installing git](#installing-git)
+  * [About git](#about-git)
+  * [Using Git](#using-git)
+    + [configurations](#configurations)
+    + [help](#help)
+    + [Tracking a directory](#tracking-a-directory)
+    + [Start tracking files](#start-tracking-files)
+    + [Ignore Files](#ignore-files)
 
 
 
@@ -104,7 +109,7 @@ git init
 
 ```
 
-####Start tracking files
+#### Start tracking files
 a. By type : 
 ```bash
 git add *.java
@@ -122,11 +127,10 @@ c. all :
 git add .
 ```
 
- ####Ignore Files
+ #### Ignore Files
 
 Create a .gitignore file
 https://github.com/github/gitignore
-
 
 
 
